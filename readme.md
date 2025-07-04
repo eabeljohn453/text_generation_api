@@ -16,6 +16,10 @@ venv/Scripts/activate
 pip install fastapi uvicorn torch numpy transformers
 ```
 
+
+
+
+
 # Run the server
 
 ```bash
